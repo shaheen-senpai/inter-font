@@ -1,6 +1,6 @@
 -- import: shaheen-senpai.github.io/inter-font/assets as inter-font-assets
 
-;; ⚠️fastn-builders::⚠️ before using this file please find and replace <font-name>
+;; ⚠️fastn-builders::⚠️ before using this file please find and replace Inter
 ;; with font name you have given inside 
 ;; `shaheen-senpai.github.io/inter-font/FASTN.ftd file
 
@@ -59,12 +59,12 @@ Below is an example of creating a custom `ftd.type` using inter-font.
 \-- ftd.type inter-font-size-12-desktop:
 size.px: 12
 weight: 400
-font-family: $inter-font-assets.fonts.<font-name>
+font-family: $inter-font-assets.fonts.Inter
 
 \-- ftd.type inter-font-size-12-mobile:
 size.px: 12
 weight: 400
-font-family: $inter-font-assets.fonts.<font-name>
+font-family: $inter-font-assets.fonts.Inter
 
 \-- ftd.responsive-type inter-font-size-12-400:
 desktop: $inter-font-size-12-desktop
@@ -111,13 +111,13 @@ color: $inherited.colors.text-strong
 -- ftd.type inter-font-size-12-desktop:
 size.px: 12
 weight: 400
-font-family: $inter-font-assets.fonts.<font-name>
+font-family: $inter-font-assets.fonts.Inter
 
 
 -- ftd.type inter-font-size-12-mobile:
 size.px: 12
 weight: 400
-font-family: $inter-font-assets.fonts.<font-name>
+font-family: $inter-font-assets.fonts.Inter
 
 -- ftd.responsive-type inter-font-size-12-400:
 desktop: $inter-font-size-12-desktop
@@ -130,13 +130,13 @@ mobile: $inter-font-size-12-mobile
 -- ftd.type inter-font-size-12-500-desktop:
 size.px: 12
 weight: 500
-font-family: $inter-font-assets.fonts.<font-name>
+font-family: $inter-font-assets.fonts.Inter
 
 
 -- ftd.type inter-font-size-12-500-mobile:
 size.px: 12
 weight: 500
-font-family: $inter-font-assets.fonts.<font-name>
+font-family: $inter-font-assets.fonts.Inter
 
 -- ftd.responsive-type inter-font-size-12-500:
 desktop: $inter-font-size-12-500-desktop
@@ -149,13 +149,13 @@ mobile: $inter-font-size-12-500-mobile
 -- ftd.type inter-font-size-12-800-desktop:
 size.px: 12
 weight: 800
-font-family: $inter-font-assets.fonts.<font-name>
+font-family: $inter-font-assets.fonts.Inter
 
 
 -- ftd.type inter-font-size-12-800-mobile:
 size.px: 12
 weight: 800
-font-family: $inter-font-assets.fonts.<font-name>
+font-family: $inter-font-assets.fonts.Inter
 
 -- ftd.responsive-type inter-font-size-12-800:
 desktop: $inter-font-size-12-800-desktop
@@ -168,13 +168,13 @@ mobile: $inter-font-size-12-800-mobile
 -- ftd.type inter-font-size-18-desktop:
 size.px: 18
 weight: 400
-font-family: $inter-font-assets.fonts.<font-name>
+font-family: $inter-font-assets.fonts.Inter
 
 
 -- ftd.type inter-font-size-18-mobile:
 size.px: 18
 weight: 400
-font-family: $inter-font-assets.fonts.<font-name>
+font-family: $inter-font-assets.fonts.Inter
 
 -- ftd.responsive-type inter-font-size-18-400:
 desktop: $inter-font-size-18-desktop
@@ -187,13 +187,13 @@ mobile: $inter-font-size-18-mobile
 -- ftd.type inter-font-size-18-500-desktop:
 size.px: 18
 weight: 500
-font-family: $inter-font-assets.fonts.<font-name>
+font-family: $inter-font-assets.fonts.Inter
 
 
 -- ftd.type inter-font-size-18-500-mobile:
 size.px: 18
 weight: 500
-font-family: $inter-font-assets.fonts.<font-name>
+font-family: $inter-font-assets.fonts.Inter
 
 -- ftd.responsive-type inter-font-size-18-500:
 desktop: $inter-font-size-18-500-desktop
@@ -206,13 +206,13 @@ mobile: $inter-font-size-18-500-mobile
 -- ftd.type inter-font-size-18-800-desktop:
 size.px: 18
 weight: 800
-font-family: $inter-font-assets.fonts.<font-name>
+font-family: $inter-font-assets.fonts.Inter
 
 
 -- ftd.type inter-font-size-18-800-mobile:
 size.px: 18
 weight: 800
-font-family: $inter-font-assets.fonts.<font-name>
+font-family: $inter-font-assets.fonts.Inter
 
 -- ftd.responsive-type inter-font-size-18-800:
 desktop: $inter-font-size-18-800-desktop
@@ -225,13 +225,13 @@ mobile: $inter-font-size-18-800-mobile
 -- ftd.type inter-font-size-48-desktop:
 size.px: 48
 weight: 400
-font-family: $inter-font-assets.fonts.<font-name>
+font-family: $inter-font-assets.fonts.Inter
 
 
 -- ftd.type inter-font-size-48-mobile:
 size.px: 48
 weight: 400
-font-family: $inter-font-assets.fonts.<font-name>
+font-family: $inter-font-assets.fonts.Inter
 
 -- ftd.responsive-type inter-font-size-48-400:
 desktop: $inter-font-size-48-desktop
@@ -244,13 +244,13 @@ mobile: $inter-font-size-48-mobile
 -- ftd.type inter-font-size-48-500-desktop:
 size.px: 48
 weight: 500
-font-family: $inter-font-assets.fonts.<font-name>
+font-family: $inter-font-assets.fonts.Inter
 
 
 -- ftd.type inter-font-size-48-500-mobile:
 size.px: 48
 weight: 500
-font-family: $inter-font-assets.fonts.<font-name>
+font-family: $inter-font-assets.fonts.Inter
 
 -- ftd.responsive-type inter-font-size-48-500:
 desktop: $inter-font-size-48-500-desktop
@@ -263,13 +263,13 @@ mobile: $inter-font-size-48-500-mobile
 -- ftd.type inter-font-size-48-800-desktop:
 size.px: 48
 weight: 800
-font-family: $inter-font-assets.fonts.<font-name>
+font-family: $inter-font-assets.fonts.Inter
 
 
 -- ftd.type inter-font-size-48-800-mobile:
 size.px: 48
 weight: 800
-font-family: $inter-font-assets.fonts.<font-name>
+font-family: $inter-font-assets.fonts.Inter
 
 -- ftd.responsive-type inter-font-size-48-800:
 desktop: $inter-font-size-48-800-desktop
