@@ -2,8 +2,8 @@
   "files": {
     "FASTN.ftd": {
       "name": "FASTN.ftd",
-      "checksum": "5003A991DAFC421F46535B3622F5F59A8F82D285820583777824292FCFBC2479",
-      "size": 15470
+      "checksum": "E3BFC459D320D764458013171645A21BF4EC0D1DA06A297D00238B41FDC94224",
+      "size": 15602
     },
     "README.md": {
       "name": "README.md",
@@ -336,6 +336,6 @@
       "size": 10540
     }
   },
-  "zip_url": "https://codeload.github.com/shaheen-senpai/inter-font/zip/refs/heads/main",
-  "checksum": "653EA57BE77FFB608D149A2B8429C48A0AA28E69F73441DDED4DBC33B310A2E9"
+  "zip_url": "https://github.com/shaheen-senpai/inter-font/archive/refs/heads/main.zip",
+  "checksum": "F10669D2990E306F1741B4853BD702AEE39E3117C5E80FAD99C50F46AB6409F6"
 }

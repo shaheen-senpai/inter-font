@@ -1,10 +1,13 @@
 -- import: fastn
 
 -- fastn.package: shaheen-senpai.github.io/inter-font
+zip: https://github.com/shaheen-senpai/inter-font/archive/refs/heads/main.zip
+
 
 -- fastn.dependency: fastn-community.github.io/site-doc
 -- fastn.dependency: fastn-community.github.io/code-block
 -- fastn.dependency: fastn-community.github.io/footer
+-- fastn.dependency: fifthtry.github.io/package-doc 
 
 -- fastn.auto-import: fastn-community.github.io/site-doc
 -- fastn.auto-import: fastn-community.github.io/code-block as cb
