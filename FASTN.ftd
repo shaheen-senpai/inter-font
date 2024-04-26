@@ -1,7 +1,7 @@
 -- import: fastn
 
 -- fastn.package: shaheen-senpai.github.io/inter-font
-zip: https://github.com/shaheen-senpai/inter-font/archive/refs/heads/main.zip
+zip: https://codeload.github.com/shaheen-senpai/inter-font/zip/refs/heads/main
 
 
 -- fastn.dependency: fastn-community.github.io/site-doc
